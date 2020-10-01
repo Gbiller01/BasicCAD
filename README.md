@@ -43,9 +43,13 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Description
 
+The second assignment is to create a mount for the base. The mounts dimensions are 120mm x 120mm. It has 4 symmetric holes in the corners, 10mm in diameter, 20mm from each side. It has another 25 mm circle in the center of the square.
+
 ### Evidence
+The mount in onshape.https://cvilleschools.onshape.com/documents/217da60652cf40b47fa05207/w/e5e6ac1275bb1d2e5a18268a/e/bce491aeac698bce4beeec88
 
 ### Image
+
 
 ### Reflection
 
